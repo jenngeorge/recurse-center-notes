@@ -41,24 +41,31 @@
     - finish reading Littman (1996) chapter 1
 
 
-## Day 5: 5/25/18 (goals)
+## Day 5: 5/25/18
 - learn math for ML group
   - review matrix operations
-  - become comfortable with backprop
+  - become comfortable with backprop (finding gradients, derivatives)
 
-- ML study group
+- ML study group: neural networks
 - read through articles from Stephen
   - https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825
   - https://databricks.com/session/building-realtime-data-pipelines-with-kafka-connect-and-spark-streaming
 
-- complete jekyll blog
-  - write a blog post about citibike data + python + kafka
+- begin pyspark tutorial: https://www.tutorialspoint.com/pyspark/pyspark_environment_setup.htm
 
-- Reinforcement Learning class: read Littman (1996) chapter 2
-  - try to start on homework 1
+- post-Recurse
+  - - finish reading Littman (1996) chapters 1 + 2
+
+## weekend time (goals)
+- do Reinforecement Learning homework 1
+  - watch homework help video https://www.youtube.com/watch?v=jBl4_MsdgLY&feature=youtu.be
+- start on next batch of Reinforcement Learning lectures
+- continue pyspark tutorial
+- take learning/blog items from backlog
 
 
 ## backlog
+- style and deploy jekyll blog
 - write blog posts
   - backpropagation
   - matrix operations

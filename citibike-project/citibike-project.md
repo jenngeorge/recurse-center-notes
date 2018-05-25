@@ -5,6 +5,7 @@ storage: postgres
 use aws
 
 close example https://mapr.com/blog/fast-data-processing-pipeline-predicting-flight-delays-using-apache-apis-pt-3/
+spark tutorial: https://www.tutorialspoint.com/pyspark/pyspark_environment_setup.htm
 
 use postgres
 
