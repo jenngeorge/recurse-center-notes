@@ -19,3 +19,36 @@
 
 ## Day 3: 5/23/18
 - ML study group: walked through implementing a simple neural network
+- read about data pipelines
+- figured out how to send the realtime streaming citibike data through kafka
+- make jekyll blog for this
+
+- post-Recurse
+  - Watch Reinforcement Learning lectures for lesson 1: Smoov & Curly's Bogus Journey
+
+## Day 4: 5/24/18
+- ML study group: neural networks
+- received an intro to RL talk from Thomas in advance of joining RL study group
+- recuperated by toying around with jekyll blog
+- feelings group
+- danceworks class!
+- coffee chat with Aiven
+- watch the demos by other recursers
+- game night!
+
+- post-Recurse
+  - finish watching Reinforcement Learning lectures for lesson 1: Smoov & Curly's Bogus Journey
+    - finish reading Littman (1996) chapter 1
+
+
+## Day 5: 5/25/18 (goals)
+- learn math for ML group
+  - review matrix operations
+  - become comfortable with backprop
+  - write blog posts about these ^
+
+- ML study group
+- complete jekyll blog
+  - write a blog post about citibike data + python + kafka
+- Reinforcement Learning class: read Littman (1996) chapter 2
+  - try to start on homework 1
