@@ -45,10 +45,21 @@
 - learn math for ML group
   - review matrix operations
   - become comfortable with backprop
-  - write blog posts about these ^
 
 - ML study group
+- read through articles from Stephen
+  - https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825
+  - https://databricks.com/session/building-realtime-data-pipelines-with-kafka-connect-and-spark-streaming
+
 - complete jekyll blog
   - write a blog post about citibike data + python + kafka
+
 - Reinforcement Learning class: read Littman (1996) chapter 2
   - try to start on homework 1
+
+
+## backlog
+- write blog posts
+  - backpropagation
+  - matrix operations
+  - derivatives and partial derivatives for ML
