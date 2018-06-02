@@ -54,19 +54,59 @@
 - begin pyspark tutorial: https://www.tutorialspoint.com/pyspark/pyspark_environment_setup.htm
 
 - post-Recurse
-  - - finish reading Littman (1996) chapters 1 + 2
+  - finish reading Littman (1996) chapters 1 + 2
 
-## weekend time (goals)
+## long Memorial weekend time (in Chicago)
 - do Reinforecement Learning homework 1
   - watch homework help video https://www.youtube.com/watch?v=jBl4_MsdgLY&feature=youtu.be
-- start on next batch of Reinforcement Learning lectures
-- continue pyspark tutorial
-- take learning/blog items from backlog
+
+## Day 6 5/29/2018 (short day in Chicago)
+- review ML study group's progress on nn-from-scratch
+- learn about backpropagation https://techburst.io/understanding-backpropagation-56f0d32a3084
+
+## Day 7 5/30/2018
+- ML study group: https://www.tensorflow.org/versions/r1.0/get_started/mnist/beginners
+- do more of the pyspark tutorial
+- go through kafka + pyspark tutorial https://www.rittmanmead.com/blog/2017/01/getting-started-with-spark-streaming-with-python-and-kafka/
+  - install docker
+
+## Day 8: 5/31/2018
+- check out SF building permits https://www.kaggle.com/aparnashastry/building-permit-applications-data/data
+  - jupyter notebook at https://github.com/jenngeorge/sf-building-permits
+- apply kafka + pyspark tutorial to existing citibike project https://www.rittmanmead.com/blog/2017/01/getting-started-with-spark-streaming-with-python-and-kafka/
+- yoga with Brad
+- coffee chat with Sarah
+
+- post-Recurse
+  - watch RL class lectures "Reinforcement Learning Basics"
+
+## Day 9: 6/1/2018 (goals)
+- pre and post-Recurse
+  - RL: read Sutton paper
+
+- do post-lunch prep
+- get mind blown by George who is writing a new programming language
+- successfully got citbike data flowing from a kafka producer through spark, which prints to terminal
+
+## weekend (saturday 6/2/2018)
+- dance class
+- do RL homework 2
+- restorative yoga
 
 
 ## backlog
+- improve tooling:
+  - learn vim?
+  - make terminal even prettier <3
+  - get more out of tmux   
 - style and deploy jekyll blog
 - write blog posts
   - backpropagation
   - matrix operations
+  - kafka + flask + citibike (part 1)
+  - spark + kafka + flask (part 2)
   - derivatives and partial derivatives for ML
+- refactor nn-from-scratch
+  - more reusable code
+  - update challenges to be switched on/off with function params
+- web scraping with python: fake news chrome plugin  https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe

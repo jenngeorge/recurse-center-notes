@@ -28,3 +28,7 @@ Step 1:
 
 Step 2:
 - save citibike data from kafka to a postgresql database as it comes in
+
+
+other traiing data
+https://www.kaggle.com/marklvl/bike-sharing-dataset
