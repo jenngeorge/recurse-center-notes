@@ -80,7 +80,7 @@
 - post-Recurse
   - watch RL class lectures "Reinforcement Learning Basics"
 
-## Day 9: 6/1/2018 (goals)
+## Day 9: 6/1/2018 
 - pre and post-Recurse
   - RL: read Sutton paper
 
@@ -91,14 +91,44 @@
 ## weekend (saturday 6/2/2018)
 - dance class
 - do RL homework 2
-- restorative yoga
 
+## Day 10: 6/4/2018
+- continue checking out SF building permits 
+  - jupyter notebook at https://github.com/jenngeorge/sf-building-permits
+  - make into flask/react/mapbox webapp
+    - https://danidee10.github.io/2016/10/26/flask-by-example-6.html
+- yoga 
+- ice cream factory with Peter! 
+
+## Day 11: 10/5/2018 
+- ML study group: 
+  - watch CNN video, begin tensorflow tutorial: https://www.tensorflow.org/tutorials/layers
+  
+- yoga 
+
+- do tensorflow tutorial through 'logit layers' section
+
+- read articles from Stephen 
+  - https://aws.amazon.com/blogs/big-data/real-time-stream-processing-using-apache-spark-streaming-and-apache-kafka-on-aws/
+  - https://docs.docker.com/get-started/
+  - look at spark course https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE230x+1T2018/course/
+
+- post-Recurse 
+  - review Sutton paper
+  - begin replicating Sutton paper (project 1)
+
+## Day 12 10/6/2018 (goals):
+- pair with Stephen on citibike project kafka deployment
 
 ## backlog
 - improve tooling:
   - learn vim?
   - make terminal even prettier <3
   - get more out of tmux   
+  - get better at pandas/numpy/jupyter notebook 
+
+- zillow housing prices data 
+  - https://www.kaggle.com/zillow/zecon
 - style and deploy jekyll blog
 - write blog posts
   - backpropagation
@@ -106,7 +136,13 @@
   - kafka + flask + citibike (part 1)
   - spark + kafka + flask (part 2)
   - derivatives and partial derivatives for ML
+
+- scrape craigslist for ideal apartments
+  
 - refactor nn-from-scratch
   - more reusable code
   - update challenges to be switched on/off with function params
+
+- see if want to contribute to https://github.com/CZagrobelny/new_sanctuary_asylum/issues
+  
 - web scraping with python: fake news chrome plugin  https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
