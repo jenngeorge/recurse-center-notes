@@ -81,7 +81,7 @@
   - watch RL class lectures "Reinforcement Learning Basics"
 
 ## Day 9: 6/1/2018
-- pre and post-Recurse
+- pre and post-Recurseg
   - RL: read Sutton paper
 
 - do post-lunch prep
@@ -126,14 +126,71 @@
 ## Weekend:
 - do reinforcement learning class project 1
 
-## Day 14 6/11/13 (goals)
-- citibike project
-- post lunch prep
+## Day 14 6/11/18
+- organize self
+  - read a bit more about confluent
+- post lunch prep: dynamic programming
+  - https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/
+- citibike project with Stephen
+  - test that kafka works
+  - use the avro schema for the bike share feed
+  - make a plan / sketch out the pipelines
 - yoga
 - watch non technical talks at RC
 - do some reading for RL class
-- work on jekyll blog
 
+
+## Day 15 6/12/18
+- work on jekyll blog
+- linear algebra workshop
+- read more about kafka / avro schemas
+  - https://www.confluent.io/blog/put-several-event-types-kafka-topic/
+  - https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/
+  - https://www.confluent.io/blog/real-time-financial-alerts-rabobank-apache-kafkas-streams-api/
+- pair with stephen on citibike
+
+- yoga
+- finish RL reading littman 1996 ch 1-2
+
+## Day 16 6/13/28
+- sseclient issue in citibike app
+- yoga
+- schedule social things
+- post lunch prep
+- pair on citbike project
+
+- post-recurse
+  - RL lecture AAA
+
+## Day 17 6/14/8 (goals)
+- citbike project
+- post lunch prep: tries https://towardsdatascience.com/implementing-a-trie-data-structure-in-python-in-less-than-100-lines-of-code-a877ea23c1a1
+- dance class
+- look at peoples demos
+- update resume / reach out to people at Google
+- yoga
+
+- post-recurse
+  - RL lecture AAA
+
+## Day 18 6/18/18
+- citbike project
+- helpful spark presentation: https://www.slideshare.net/jozefhabdank/extreme-apache-spark-how-in-3-months-we-created-a-pipeline-that-can-process-25-billion-rows-a-day
+- follow setup from https://github.com/big-data-europe/docker-spark
+
+
+## Day 19 6/19/18
+- got really stuck on docker stuff for the citibike app
+  - trouble importing pyspark ~ why?
+
+## Day 20 6/20/18
+- resolved docker spark / pyspark issue!
+- review dynamic programming https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/
+  - do post lunch prep problems 
+
+- post-recurse
+  - watch RL lectures
+--------------
 
 ## backlog
 - improve tooling:
@@ -141,17 +198,26 @@
   - make terminal even prettier <3
   - get more out of tmux   
   - get better at pandas/numpy/jupyter notebook
+  - grep, pipes, etc
 
 - zillow housing prices data
   - https://www.kaggle.com/zillow/zecon
 - style and deploy jekyll blog
 - write blog posts
   - backpropagation
+  - boxcox transformation
+  - basic reinforcement learning
+  - why Sutton and TD is so cool (summarize paper)
+  - Bellman equations
   - matrix operations
+    - eigenvalues and eigenvectors https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors
+    - https://math.stackexchange.com/questions/180849/why-is-the-complex-number-z-abi-equivalent-to-the-matrix-form-left-begins
+    - https://en.wikipedia.org/wiki/Complex_number
   - kafka + flask + citibike (part 1)
   - spark + kafka + flask (part 2)
   - conceptual overview of docker
   - derivatives and partial derivatives for ML
+  - matrix calculus http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
 
 - scrape craigslist for ideal apartments
 
@@ -160,5 +226,10 @@
   - update challenges to be switched on/off with function params
 
 - see if want to contribute to https://github.com/CZagrobelny/new_sanctuary_asylum/issues
+- https://code.gov/#/help-wanted
+- https://github.com/RTICWDT
+- https://publiclab.org/wiki/developers
+- https://github.com/pedrozath/coltrane
+- https://github.com/internetarchive/openlibrary
 
 - web scraping with python: fake news chrome plugin  https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
