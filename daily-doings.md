@@ -186,10 +186,34 @@
 ## Day 20 6/20/18
 - resolved docker spark / pyspark issue!
 - review dynamic programming https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/
-  - do post lunch prep problems 
+  - do post lunch prep problems
 
-- post-recurse
-  - watch RL lectures
+## Day 21 6/21/18
+- review greedy https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/
+- do RC outreach
+- citibike project 
+
+## Day 22 - 25 
+- citibike project
+- RL project 2: lunar lander with DQN 
+
+## Day 26 - 28: sick :(
+  - began reading The Algorithm Design Manual - Ch1 
+  
+## Day 29 - 7/6/18 
+- meeting the new batch! 
+- feelings workshop 
+- coffee with Nat 
+- citbike project: work on adding flask and postgres 
+- PLP 
+- RL readings and lectures 
+
+## Weekend 7/6/18 - 7/8/18: goals 
+- RL homework 5 
+- catch up on RL readings 
+- watch next set of RL lectures 
+- play with lunar lander? try to make it better
+
 --------------
 
 ## backlog
