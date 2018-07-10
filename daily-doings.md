@@ -191,28 +191,41 @@
 ## Day 21 6/21/18
 - review greedy https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/tutorial/
 - do RC outreach
-- citibike project 
-
-## Day 22 - 25 
 - citibike project
-- RL project 2: lunar lander with DQN 
+
+## Day 22 - 25
+- citibike project
+- RL project 2: lunar lander with DQN
 
 ## Day 26 - 28: sick :(
-  - began reading The Algorithm Design Manual - Ch1 
-  
-## Day 29 - 7/6/18 
-- meeting the new batch! 
-- feelings workshop 
-- coffee with Nat 
-- citbike project: work on adding flask and postgres 
-- PLP 
-- RL readings and lectures 
+  - began reading The Algorithm Design Manual - Ch1
 
-## Weekend 7/6/18 - 7/8/18: goals 
-- RL homework 5 
-- catch up on RL readings 
-- watch next set of RL lectures 
-- play with lunar lander? try to make it better
+## Day 29 - 7/6/18
+- meeting the new batch!
+- feelings workshop
+- coffee with Nat
+- citbike project: work on adding flask and postgres
+- PLP
+- RL readings and lectures
+
+## Weekend 7/6/18 - 7/8/18
+- RL homework 5
+- RL readings for hw5
+- watched RL lectures
+
+## Day 30 7/9/18
+- citibike project: added postgres container, connected flask to postgres
+- did post lunch prep problems (topic: linked lists)
+- watched first RL game theory lecture
+
+## Day 31 7/10/218
+- citibike project: added flask tests
+- hosted post lunch prep (topic: stacks)
+- talked to facilitator at RC aboutt the jobs search 
+- filled out RC job profile
+- watched second RL game theory lecture
+
+
 
 --------------
 
