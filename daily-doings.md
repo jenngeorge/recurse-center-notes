@@ -218,14 +218,25 @@
 - did post lunch prep problems (topic: linked lists)
 - watched first RL game theory lecture
 
-## Day 31 7/10/218
-- citibike project: added flask tests
+## Day 31 7/10/2018
+- citibike project: set up and added flask tests
 - hosted post lunch prep (topic: stacks)
-- talked to facilitator at RC aboutt the jobs search 
+- talked to facilitator at RC aboutt the jobs search
 - filled out RC job profile
 - watched second RL game theory lecture
+- started reading 'Markov games as a framework for multi-agent reinforcement learning'(Littman 1994)
 
+## Day 32 7/11/2018
+- finish reading Littman 1994
+- read 'A Polynomial-time Nash Equilibrium Algorithm for Repeated Games' (Littman and Stone 2003)
+- lunch with Iheanyi (not-RC)
+- read about flask blueprints http://flask.pocoo.org/docs/0.12/blueprints/
 
+## Day 33 7/12/2018
+- Do RL hw 6
+- read about flask app factories: http://flask.pocoo.org/docs/0.12/patterns/appfactories/
+- citibike: add flask blueprints and routes (https://testdriven.io/part-one-flask-blueprints)
+- begin watching final RL game theory lecture
 
 --------------
 
@@ -235,7 +246,6 @@
   - make terminal even prettier <3
   - get more out of tmux   
   - get better at pandas/numpy/jupyter notebook
-  - grep, pipes, etc
 
 - zillow housing prices data
   - https://www.kaggle.com/zillow/zecon
@@ -250,8 +260,6 @@
     - eigenvalues and eigenvectors https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors
     - https://math.stackexchange.com/questions/180849/why-is-the-complex-number-z-abi-equivalent-to-the-matrix-form-left-begins
     - https://en.wikipedia.org/wiki/Complex_number
-  - kafka + flask + citibike (part 1)
-  - spark + kafka + flask (part 2)
   - conceptual overview of docker
   - derivatives and partial derivatives for ML
   - matrix calculus http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
@@ -268,5 +276,3 @@
 - https://publiclab.org/wiki/developers
 - https://github.com/pedrozath/coltrane
 - https://github.com/internetarchive/openlibrary
-
-- web scraping with python: fake news chrome plugin  https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
