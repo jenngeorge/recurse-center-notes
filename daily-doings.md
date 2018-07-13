@@ -238,6 +238,17 @@
 - citibike: add flask blueprints and routes (https://testdriven.io/part-one-flask-blueprints)
 - begin watching final RL game theory lecture
 
+## Day 34 7/13/2018: goals
+- watch final RL game theory lecture
+- review dynamic programming https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/
+- print out & read 'Correlated Q-learning' - Greenwald & Hall 2003
+- citibike project: continue adding routes & tests, deploy?
+
+## Weekend of 7/14/18 goals
+- do RL project 3: replicating experiments from Greenwald & Hall '03
+- update resume
+- CTCI if time 
+
 --------------
 
 ## backlog
